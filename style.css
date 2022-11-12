@@ -1,0 +1,12 @@
+.grid
+{
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    width: 800px;
+    margin: 5% auto;
+}
+body
+{
+    text-align: center;
+}
